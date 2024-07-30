@@ -1,0 +1,8 @@
+﻿  welcome.cpp
+C:\Users\Стас\source\repos\MatthewVologzhin\learning\C++\C++\welcome.cpp(3,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Стас\source\repos\MatthewVologzhin\learning\C++\C++\welcome.cpp(3,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "username"
+C:\Users\Стас\source\repos\MatthewVologzhin\learning\C++\C++\welcome.cpp(6,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Стас\source\repos\MatthewVologzhin\learning\C++\C++\welcome.cpp(7,2): error C2065: cin: необъявленный идентификатор
+C:\Users\Стас\source\repos\MatthewVologzhin\learning\C++\C++\welcome.cpp(7,9): error C2065: username: необъявленный идентификатор
+C:\Users\Стас\source\repos\MatthewVologzhin\learning\C++\C++\welcome.cpp(8,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Стас\source\repos\MatthewVologzhin\learning\C++\C++\welcome.cpp(8,49): error C2065: username: необъявленный идентификатор

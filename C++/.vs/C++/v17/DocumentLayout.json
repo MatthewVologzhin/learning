@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0442\u0430\u0441\\source\\repos\\MatthewVologzhin\\learning\\C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36035B21-FDA6-4C17-9EC3-09E84792534A}|C\u002B\u002B\\C\u002B\u002B.vcxproj|C:\\Users\\\u0421\u0442\u0430\u0441\\source\\repos\\MatthewVologzhin\\learning\\C\u002B\u002B\\C\u002B\u002B\\welcome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36035B21-FDA6-4C17-9EC3-09E84792534A}|C\u002B\u002B\\C\u002B\u002B.vcxproj|solutionrelative:C\u002B\u002B\\welcome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36035B21-FDA6-4C17-9EC3-09E84792534A}|C\u002B\u002B\\C\u002B\u002B.vcxproj|C:\\Users\\\u0421\u0442\u0430\u0441\\source\\repos\\MatthewVologzhin\\learning\\C\u002B\u002B\\C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36035B21-FDA6-4C17-9EC3-09E84792534A}|C\u002B\u002B\\C\u002B\u002B.vcxproj|solutionrelative:C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36035B21-FDA6-4C17-9EC3-09E84792534A}|C\u002B\u002B\\C\u002B\u002B.vcxproj|C:\\Users\\\u0421\u0442\u0430\u0441\\source\\repos\\MatthewVologzhin\\learning\\C\u002B\u002B\\C\u002B\u002B\\welcome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36035B21-FDA6-4C17-9EC3-09E84792534A}|C\u002B\u002B\\C\u002B\u002B.vcxproj|solutionrelative:C\u002B\u002B\\welcome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "welcome.h",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0430\u0441\\source\\repos\\MatthewVologzhin\\learning\\C\u002B\u002B\\C\u002B\u002B\\welcome.h",
+              "RelativeDocumentMoniker": "C\u002B\u002B\\welcome.h",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0430\u0441\\source\\repos\\MatthewVologzhin\\learning\\C\u002B\u002B\\C\u002B\u002B\\welcome.h",
+              "RelativeToolTip": "C\u002B\u002B\\welcome.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-30T15:47:05.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "welcome.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0430\u0441\\source\\repos\\MatthewVologzhin\\learning\\C\u002B\u002B\\C\u002B\u002B\\welcome.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B\\welcome.cpp",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0430\u0441\\source\\repos\\MatthewVologzhin\\learning\\C\u002B\u002B\\C\u002B\u002B\\welcome.cpp",
+              "RelativeToolTip": "C\u002B\u002B\\welcome.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T15:45:01.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0430\u0441\\source\\repos\\MatthewVologzhin\\learning\\C\u002B\u002B\\C\u002B\u002B\\main.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B\\main.cpp",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0430\u0441\\source\\repos\\MatthewVologzhin\\learning\\C\u002B\u002B\\C\u002B\u002B\\main.cpp",
+              "RelativeToolTip": "C\u002B\u002B\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T15:42:41.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
